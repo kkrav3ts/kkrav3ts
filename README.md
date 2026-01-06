@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+![kkrav3ts_the_guy_is_sitting_in_the_train_looking_into_the_cyb_7e8adb5c-d501-4f7d-b5d9-8ca4069a80a2_1](https://github.com/user-attachments/assets/6f9d1495-0213-4617-96de-460f8cfa3590)
+
 <!--
 **kkrav3ts/kkrav3ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
