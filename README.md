@@ -1,5 +1,5 @@
 ## Hi there 👋
-![kkrav3ts_Ultra_realistic_8k_A_scene_from_a_high-quality_anima_3b54568c-b125-41ad-8b4c-cc80790d4636_3](https://github.com/user-attachments/assets/abc3f2b1-3ecb-4cb0-a2b6-cfbe56883134)
+![kkrav3ts_Ultra_realistic_8k_A_scene_from_a_high-quality_anima_5eebe82a-6389-4513-a1d5-7f7e8a094602_0](https://github.com/user-attachments/assets/f044fd29-b38e-4089-ad69-0a0a7bae2e18)
 
 <!--
 **kkrav3ts/kkrav3ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
