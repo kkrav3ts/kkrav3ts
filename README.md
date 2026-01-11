@@ -1,4 +1,4 @@
-<img width="100%" alt="gachiakuta-2025-3840x2160-21929_cropped_processed_by_imagy(1)" src="https://github.com/user-attachments/assets/133b5ba5-1054-4510-a74a-1c21dea14487" />
+<img width="100%" alt="gachiakuta-2025-3840x2160-21929_cropped_processed_by_imagy(1)" src="https://github.com/user-attachments/assets/8b39e190-7ba8-4ab0-a3d2-e0d513cd66d6" />
 
 ## Hi there 👋
 <!--
