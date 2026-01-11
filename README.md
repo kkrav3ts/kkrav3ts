@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <em>One thing is clear in the streets: your throughput is what matters most. Nobody cares about your elegant design, your knowledge of algorithms, or your high-quality code. All they care about is how much you can deliver in a given time. (c) Street Coder”</em>
+  <em>One thing is clear in the streets: your throughput is what matters most. Nobody cares about your elegant design, your knowledge of algorithms, or your high-quality code. All they care about is how much you can deliver in a given time.</em>
 </p>
-
+<p align="center">
+  <em>(c) Street Coder</em>
+</p>
 <p align="center">
   <b>Kyiv, Ukraine 🇺🇦 • English • Ukrainian • Russian • German </b>
 </p>
