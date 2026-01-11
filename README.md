@@ -1,6 +1,6 @@
-## Hi there 👋
-![kkrav3ts_Ultra_realistic_8k_A_scene_from_a_high-quality_anima_5eebe82a-6389-4513-a1d5-7f7e8a094602_0](https://github.com/user-attachments/assets/f044fd29-b38e-4089-ad69-0a0a7bae2e18)
+<img width="100%" alt="gachiakuta-2025-3840x2160-21929_cropped_processed_by_imagy(1)" src="https://github.com/user-attachments/assets/133b5ba5-1054-4510-a74a-1c21dea14487" />
 
+## Hi there 👋
 <!--
 **kkrav3ts/kkrav3ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
