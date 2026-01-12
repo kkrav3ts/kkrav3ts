@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <em>One thing is clear in the streets: your throughput is what matters most. Nobody cares about your elegant design, your knowledge of algorithms, or your high-quality code. All they care about is how much you can deliver in a given time.</em>
+  <em>One thing is clear in the streets: your throughput is what matters most. Nobody cares about your elegant design, your knowledge of algorithms, or your high-quality code. All they care about is how much you can deliver in a given time. Counterintuitively, good design, good use of algorithms, and good quality code can impact your throughput significantly.</em>
 </p>
 <p align="center">
   <em>(c) Street Coder</em>
