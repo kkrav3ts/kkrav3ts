@@ -1,7 +1,7 @@
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/8b39e190-7ba8-4ab0-a3d2-e0d513cd66d6" />
 
 <!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F72121&center=true&width=435&lines=Self-taught+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F72121&center=true&width=435&lines=Self-taught+Engineer" alt="Typing SVGG" />
 </p> -->
 
 <p align="center">
